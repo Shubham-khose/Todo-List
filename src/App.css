@@ -1,0 +1,29 @@
+h1{
+  font-weight:700;
+  /* color:aliceblue; */
+  font-size:45px;
+  margin:10px;
+  margin-bottom: 25px;;
+}
+input{
+  width:100%;
+}
+
+.items-container{
+  text-align:left;
+}
+
+.col{
+  width:100%;
+  
+}
+.kg-row{
+  margin:10px 5px;
+}
+
+.kg-button{
+  margin:0px;
+  text-align:center;
+  min-width:80px;
+  padding:0px;
+}
